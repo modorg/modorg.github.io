@@ -1,7 +1,13 @@
 # Setup
 title:               Modorg
-tagline:             ''
+tagline:             'optymalizacja procesów biznesowych'
 url:                 https://modorg.github.io/
 baseurl:             ''
 paginate:            5
+description:         ''
 
+# About/contact
+author:
+  name:              Wojciech Zakrzewski
+  url:               https://github.com/asterdrak
+email: asterdrak@gmail.com
